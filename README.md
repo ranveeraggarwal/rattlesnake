@@ -1,5 +1,5 @@
 # rattlesnake
-DIY Python Projects
+DIY Programming Projects
 
 ## About
 We will release a mini-project every week. The project will be marked by difficulty and will give you some insights on a particular Python concept.
@@ -19,3 +19,4 @@ Well, most of the problems are language/paradigm agnostic. If you want to implem
 Here's a list of people currently working on other languages:
 
 * Swift: @ranveeraggarwal
+* Perl: @martiansideofthemoon
