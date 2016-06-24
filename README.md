@@ -6,7 +6,7 @@ We will release a mini-project every week. The project will be marked by difficu
 
 ## List of Projects (In Order)
 
-* [A class of Students](https://github.com/ranveeraggarwal/rattlesnake/rattlesnake/a-class-of-students)
+* [A class of Students](https://github.com/ranveeraggarwal/rattlesnake/tree/master/rattlesnake/a-class-of-students)
 
 ## Submission Guide
 Coming Soon
