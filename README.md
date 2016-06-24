@@ -11,4 +11,4 @@ Coming soon
 Coming Soon
 
 ## How to Enroll
-Coming Soon
+If you're interested, send over an email to rattlesnake.py@gmail.com
