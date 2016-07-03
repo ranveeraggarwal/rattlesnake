@@ -1,4 +1,4 @@
-# A class of students
+# A Class of Students
 
 ## Overview
 We need an application for teachers to keep track of students and their grades.
