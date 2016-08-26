@@ -9,6 +9,7 @@ We will release a mini-project every week. The project will be marked by difficu
 * [A Class of Students](https://github.com/ranveeraggarwal/rattlesnake/tree/master/rattlesnake/01-a-class-of-students)
 * [A Small Coaching Institute](https://github.com/ranveeraggarwal/rattlesnake/tree/master/rattlesnake/02-a-small-coaching-institute)
 * [A Large Coaching Institute (Not for the faint hearted)](https://github.com/ranveeraggarwal/rattlesnake/tree/master/rattlesnake/02.5-a-large-coaching-institute)
+* [A Calculator](https://github.com/ranveeraggarwal/rattlesnake/tree/master/rattlesnake/03-calculator)
 
 ## How to Enroll
 If you're interested, send over an email to rattlesnake.py+enroll@gmail.com
